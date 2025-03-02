@@ -86,6 +86,11 @@ This repository collects papers on embodied learning, including robot learning, 
 [Project](https://sirui-xu.github.io/InterDiff/)
 
 #### Humanoid Motion Learning
+- [ ] (ECCV 2024) **_MotionLCM_**: MotionLCM: Real-time Controllable Motion Generation via Latent Consistency Model.
+[Paper](https://arxiv.org/abs/2404.19759)
+[Code](https://github.com/Dai-Wenxun/MotionLCM)
+[Project](https://dai-wenxun.github.io/MotionLCM-page/)
+
 - [ ] (ICLR 2023) **_MDM_**: Human Motion Diffusion Model.
 [Paper](https://arxiv.org/pdf/2209.14916)
 [Project](https://guytevet.github.io/mdm-page/)
