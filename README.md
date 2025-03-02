@@ -63,28 +63,38 @@ This repository collects papers on embodied learning, including robot learning, 
 
 
 ## Motion Learning
-#### Humanoid Motion Learning
+#### Human-Object Interaction (HOI)
 - (CVPR 2025) **_InterAct_**: Advancing Large-Scale Versatile 3D Human-Object Interaction Generation.
 
 - (CVPR 2025) **_InterMimic_**: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions.
 [Paper](https://arxiv.org/pdf/2502.20390)
 [Project](https://sirui-xu.github.io/InterMimic/)
 
-- (NIPS 2024) Grasping Diverse Objects with Simulated Humanoids.
-[Paper](https://arxiv.org/abs/2407.11385)
-[Project](https://www.zhengyiluo.com/Omnigrasp)
+- (CVPR 2025) **_PhysHOI_**: Physics-Based Imitation of Dynamic Human-Object Interaction.
+[Paper](https://arxiv.org/abs/2312.04393)
+[Code](https://github.com/wyhuai/PhysHOI)
+[Project](https://wyhuai.github.io/physhoi-page/)
 
 - (NIPS 2024) **_CooHOI_**: Learning Cooperative Human-Object Interaction with Manipulated Object Dynamics.
 [Paper](https://arxiv.org/abs/2406.14558)
 [Code](https://github.com/Winston-Gu/CooHOI)
 [Project](https://gao-jiawei.com/Research/CooHOI/)
 
+- (ICCV 2023) **_InterDiff_**: InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion
+[Paper](http://arxiv.org/abs/2308.16905)
+[Code](https://github.com/Sirui-Xu/InterDiff)
+[Project](https://sirui-xu.github.io/InterDiff/)
+
+#### Humanoid Motion Learning
 - (ICLR 2023) **_MDM_**: Human Motion Diffusion Model.
 [Paper](https://arxiv.org/pdf/2209.14916)
 [Project](https://guytevet.github.io/mdm-page/)
 
+Zhengyi Luo
+- (NIPS 2024) Grasping Diverse Objects with Simulated Humanoids.
+[Paper](https://arxiv.org/abs/2407.11385)
+[Project](https://www.zhengyiluo.com/Omnigrasp)
 
-#### ✨ Zhengyi Luo
 - (ICLR 2024) **_PULSE_**: Universal Humanoid Motion Representations for Physics-Based Control.
 [Paper](https://arxiv.org/abs/2310.04582v1)
 [Code](https://github.com/ZhengyiLuo/PULSE)
