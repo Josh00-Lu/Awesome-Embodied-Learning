@@ -90,7 +90,8 @@ This repository collects papers on embodied learning, including robot learning, 
 [Paper](https://arxiv.org/pdf/2209.14916)
 [Project](https://guytevet.github.io/mdm-page/)
 
-Zhengyi Luo
+
+#### ✨ Zhengyi Luo
 - (NIPS 2024) Grasping Diverse Objects with Simulated Humanoids.
 [Paper](https://arxiv.org/abs/2407.11385)
 [Project](https://www.zhengyiluo.com/Omnigrasp)
