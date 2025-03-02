@@ -73,6 +73,10 @@ This repository collects papers on embodied learning, including robot learning, 
 [Code](https://github.com/Winston-Gu/CooHOI)
 [Project](https://gao-jiawei.com/Research/CooHOI/)
 
+- (ICLR 2023) **_MDM_**: Human Motion Diffusion Model.
+[Paper](https://arxiv.org/pdf/2209.14916)
+[Project](https://guytevet.github.io/mdm-page/)
+
 
 #### ✨ Zhengyi Luo
 - (ICLR 2024) **_PULSE_**: Universal Humanoid Motion Representations for Physics-Based Control.
