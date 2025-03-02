@@ -151,3 +151,10 @@ This repository collects papers on embodied learning, including robot learning, 
 - [ ] (SIGGRAPH 2017) **_DeepLoco_**: Developing Locomotion Skills Using Hierarchical Deep Reinforcement Learning.
 [Paper](https://xbpeng.github.io/projects/DeepLoco/DeepLoco_2017.pdf)
 [Project](https://xbpeng.github.io/projects/DeepLoco/index.html)
+
+
+
+
+
+# Notes
+This list is mainly for personal use. If you have any questions, please feel free to contact me via email (josh00.lu (at) gmail.com).
