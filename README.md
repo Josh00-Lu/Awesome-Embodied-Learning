@@ -3,7 +3,7 @@ This repository collects papers on embodied learning, including robot learning, 
 
 ## Embodiment Co-design & Unified Control
 - (ICLR 2025) **_BodyGen_**: BodyGen: Advancing Towards Efficient Embodiment Co-Design.
-[Paper](https://github.com/GenesisOrigin/BodyGen)
+[Paper](https://openreview.net/pdf?id=cTR17xl89h)
 [Code](https://github.com/GenesisOrigin/BodyGen)
 [Project](https://genesisorigin.github.io/)
 
