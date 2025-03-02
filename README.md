@@ -64,6 +64,12 @@ This repository collects papers on embodied learning, including robot learning, 
 
 ## Motion Learning
 #### Humanoid Motion Learning
+- (CVPR 2025) **_InterAct_**: Advancing Large-Scale Versatile 3D Human-Object Interaction Generation.
+
+- (CVPR 2025) **_InterMimic_**: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions.
+[Paper](https://arxiv.org/pdf/2502.20390)
+[Project](https://sirui-xu.github.io/InterMimic/)
+
 - (NIPS 2024) Grasping Diverse Objects with Simulated Humanoids.
 [Paper](https://arxiv.org/abs/2407.11385)
 [Project](https://www.zhengyiluo.com/Omnigrasp)
