@@ -96,7 +96,7 @@ This repository collects papers on embodied learning, including robot learning, 
 [Paper](https://arxiv.org/abs/2407.11385)
 [Project](https://www.zhengyiluo.com/Omnigrasp)
 
-- [ ](ICLR 2024) **_PULSE_**: Universal Humanoid Motion Representations for Physics-Based Control.
+- [ ] (ICLR 2024) **_PULSE_**: Universal Humanoid Motion Representations for Physics-Based Control.
 [Paper](https://arxiv.org/abs/2310.04582v1)
 [Code](https://github.com/ZhengyiLuo/PULSE)
 [Project](https://zhengyiluo.github.io/PULSE/)
